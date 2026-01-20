@@ -64,7 +64,7 @@ docker compose up -d
 ## Вход в админку
 - URL: `http://localhost:8080/wp-admin/`
 - Логин: `rostest`
-- Пароль: `5ynXo*ero)pL$np^Ih`
+- Пароль: `rostest`
 
 ## Фильтры/сортировка (GET)
 Примеры:

@@ -1,0 +1,8 @@
+.DS_Store
+.env
+
+# WordPress runtime files
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+
